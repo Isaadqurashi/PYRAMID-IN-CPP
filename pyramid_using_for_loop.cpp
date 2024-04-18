@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Enter an integer Number for rows Of Pyramid: "; // n are number of rows
+    cout << "Enter an integer number for rows Of Pyramid: "; // n are number of rows
     cin >> n;
 
     // number of spaces
